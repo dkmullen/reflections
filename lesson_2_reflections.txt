@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git sets up a new repository in the current directory. This sets the stage
+for creating a version-controlled set of files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory in that it contains files that the user judges to be ready to commit.
+It differs from the repository in that it is only a small set of files that have been updated.
+It's value is that it allows the user to select a subset of the total files for commitment.
