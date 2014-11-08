@@ -15,3 +15,8 @@ If you are working offline, the last-known state is still accessible.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Could share files via Dropbox or collaborate on Google Docs. The editing would be simplier, kind of like taking turns editing the text
 on GitHub, but you would lose the powerful tools to compare.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When working on a variation of the main program, or when trying out different lines of code via different collobrators.
+The benefits of this approach are the ability to bang around on the project without messing up the master.
+Working directly on the master, however, is simplier to keep updated.
