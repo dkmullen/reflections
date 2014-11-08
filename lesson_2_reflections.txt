@@ -21,3 +21,12 @@ a different language, etc. Putting the program in two branches allows concurrent
 How do the diagrams help you visualize the branch structure?
 
 They illustrate the dependencies of later commits on earlier ones and show where the code branches off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It brings a branch back into the master code. The diagram accurately reflects the diverging and re-combining.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatically merging speeds the process, especially when there are no (or few) conflicts.
+Manual merges take longer, but allow a 'sanity check' by the programmer.
