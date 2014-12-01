@@ -20,3 +20,5 @@ When would you want to make changes in a separate branch rather than directly in
 When working on a variation of the main program, or when trying out different lines of code via different collobrators.
 The benefits of this approach are the ability to bang around on the project without messing up the master.
 Working directly on the master, however, is simplier to keep updated.
+
+Yes.
